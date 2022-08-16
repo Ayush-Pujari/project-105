@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.t{
+    color: black;
+    font-size: 18px;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: 'Bangers', cursive;
+    font-family: 'Lobster', cursive;
+}
+.b1{
+    color: black;
+    font-size: 20px;
+}
+.n{
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
